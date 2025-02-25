@@ -1,0 +1,14 @@
+body {
+
+/* background-image: url(../img/kanto-map.jpeg); */
+background-image: url(../img/kanto-map.jpeg);    
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+h1 {
+color: black;
+justify-content: center;
+text-align: center;
+}   
