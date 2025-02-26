@@ -5,12 +5,21 @@ background-image: url(../img/kanto-map.jpeg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
+font-family: 'Press Start 2P', cursive;
+font-color: white
 }
 
 h1 {
-color: black;
+color:white; 
 justify-content: center;
 text-align: center;
+text-decoration: underline;
+text-decoration-color: #d3d3d3; 
 }   
+
+a {
+    color: white; /* Color blanco para los enlaces */
+    text-decoration: none;
+    }
 
 
