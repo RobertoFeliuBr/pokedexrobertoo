@@ -1,0 +1,32 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #f8e8d1;
+    text-align: center;
+    color: #000;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: #f0d9b5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+img {
+    width: 200px;
+}
+.type {
+    background: orange;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button {
+    background: red;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+}
